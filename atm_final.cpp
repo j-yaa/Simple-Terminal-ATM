@@ -43,7 +43,7 @@ int main()
                 int remaining = 3 - tries;
                 if (remaining > 0)
                 {
-                    std::cout << "[!] Incorrect PIN. " << remaining << " attempt(s) remaining.\n";
+                    std::cout << "[!] Incorrect PIN " << remaining << " attempt(s) remaining\n";
                     std::cout << std::endl;
                 }
             }

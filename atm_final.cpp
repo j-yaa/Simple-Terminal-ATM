@@ -65,7 +65,6 @@ int main()
         while(!verified)
         {
             system("cls");
-
             std::cout << "+--------------------------------------------+\n";
             std::cout << "     [Enter Credentials for Verification]     \n";
             std::cout << "+--------------------------------------------+\n";
